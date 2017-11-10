@@ -1,7 +1,7 @@
 /* eslint-disable */
 import {
   config
-} from '~/assets/firebase.js'
+} from '~/assets/firebase-config.js'
 
 export default ({
   app,
